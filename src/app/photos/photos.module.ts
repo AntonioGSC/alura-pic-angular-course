@@ -15,6 +15,6 @@ import { PhotoComponent } from "./photo/photo.component";
   imports: [
     CommonModule,
     HttpClientModule
-  ],
+  ]
 })
 export class PhotosModule {}
